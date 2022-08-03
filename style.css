@@ -7,7 +7,7 @@ body{
     background: url(./img/l.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    /* display: flex; */
+    /* display: flex;hhh */
     align-items: center;
     display:block;
 }
@@ -88,7 +88,7 @@ body{
   }
 
   .wrapper p span{
-    color: #90006e;
+    color:#90006e;
     font-size: 25px;
   }
 
